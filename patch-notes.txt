@@ -1,0 +1,13 @@
+BACKEND SET UP:
+installing djangorestframework
+creating app core
+registering core in settings.py
+models.py settings
+installing Pillow
+makemigrations
+migrate
+creating and set up serializers.py
+creating and set up views.py
+setting URLs
+
+
