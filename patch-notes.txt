@@ -11,3 +11,12 @@ creating and set up views.py
 setting URLs
 
 
+FRONTEND SET UP:
+set up api.service.ts
+set up api.service.spec.ts
+set up app.module.ts
+creation and set up of app-routing.module.ts (need to check the structure in the next classes)
+update in app.component.ts
+update in app.component.html
+
+
